@@ -1,4 +1,5 @@
 # BERT (Bidirectional Encoder Representations from Transformers)
+# Use Case: Text classification, sentence embedding, etc.
 
 from transformers import BertTokenizer, BertModel
 import torch
